@@ -1,0 +1,10 @@
+ID,site,area,section,block,house,room,cisi,m77id,excavation,idno,reference,period,phase,boss,shape,depth,crossx,type,color,horizontal,vertical,thickness,horizontalmm,verticalmm,thicknessminmm,thicknessmaxmm,material,museum,textcondition,artefactpreservation,cult,symbol,notes,inscribedsides,stylegroup,class,lines,direction,signs,complete,alignment,signheight,images,text,keywords,symbol,symbolsubtype,animalfacing,cultobject,complete,images
+1,Alamgirpur,,,,,,,9061,,,IAR:1958-59:Pl.LXV.A,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Fair,complete,None,None,,1,,SS,1,L/R,  ,2,Y,Unordered,Unequal,+410-017+,,
+2,Alamgirpur,,,,,,,9062,,,IAR:1958-59:Pl.LXV.A,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Fair,complete,None,None,,1,,SS,1,L/R,  ,2,Y,,,+410-017+,,
+3,Alamgirpur,,,,,,,9063,,,IAR:1958-59:Pl.LXV.A,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Fair,complete,None,None,,1,,SC,1,L/R,  ,2,Y,,,+405-017+,,
+4,Allahdino,,,J6,E1/2,,<  ,0,AD73-157,,,,,,,-125,,POT:T:g,Red,2.5cm,3.0cm,0.6cm,25,30,6,0,Clay,,Poor,complete,None,None,,1,,??,1,,  ,2,N,,,+220-000+,,
+5,Allahdino,,,H5,E1/2,,<  ,0,AD73-157,,,,,,,-0.35,,TAG,Red,3.7cm,4.4cm,1.2cm,37,44,12,0,Clay,,Poor,complete,,Bull,,1,,UC,1,R/L,  ,2,Y,,,+740-235+,Bull,Bull,Bull,,,,,
+6,Allahdino,,,J7,SW Quad,,,0,AD74-147,,,,,,square,-0-20 ,,SEAL:S,,2.85cm,2.3cm,2.8cm,28.5,23,28,0,Steatite,,Poor,fragment,,Bull1,,1,,SS,1,R/L,   ,3,Y,Strong linear,Equal,+740-390-590+,Bull1,Bull1,Bull1:?:c,R,,N,,
+7,Allahdino,,,Test 6B,,,,0,AD74-32,,,,,,square,-10,,SEAL:S,,2.3cm,2.5cm,1.4cm,23,25,14,0,Steatite,,Fair,complete,SAN,Bull1:J,,1,,SC,1,R/L,    ,4,Y,Linear,Equal,+368-390-125-033+,Bull1,Bull1,Bull1:J,R,SAN,Y,,
+8,Allahdino,,,E4,SW Quad,,,0,AD74-177,,,,,,square,-90,,SEAL:S,,2cm,2.1cm,1.3cm,20,21,13,0,Steatite,,Fair,complete,SAN,Bull1:II,,1,MD-Al#1,PP,1,R/L,     ,5,Y,Linear,Equal,+740-904-033-705-235+,Bull1,Bull1,Bull1:II,R,SAN,Y,,
+9,Allahdino,,,H6,,,,0,AD74-105,,,,,,square,-15,,SEAL:S,,2.1cm,2.1cm,0.6cm,21,21,6,0,Steatite,,Fair,complete,SAN,Bull1:II,,1,,LP,1,R/L,      ,6,Y,Linear,Equal,+740-017-495-235-741-066+,Bull1,Bull1,Bull1:II,R,SAN,Y,,

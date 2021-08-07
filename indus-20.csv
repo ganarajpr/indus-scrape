@@ -1,0 +1,11 @@
+ID,site,area,section,block,house,room,cisi,m77id,excavation,idno,reference,period,phase,boss,shape,depth,crossx,type,color,horizontal,vertical,thickness,horizontalmm,verticalmm,thicknessminmm,thicknessmaxmm,material,museum,textcondition,artefactpreservation,cult,symbol,notes,inscribedsides,stylegroup,class,lines,direction,signs,complete,alignment,signheight,images,text,keywords,symbol,symbolsubtype,animalfacing,cultobject,complete,images
+10,Allahdino,,,C6,NW Quad,,,0,AD74-123,,,,,,square,-34,,SEAL:S,,1.7cm,1.8cm,0.5cm,17,18,5,0,Steatite,,Poor,complete,SAN,Bull1,,1,,SS,1,R/L,   ,3,Y,Linear,Unequal,+156-460-510+,Bull1,Bull1,Bull1,R,SAN,Y,,
+11,Allahdino,,,E6,NW Quad,,,0,AD74-164,,,,,,square,-110,,SEAL:S,,2.0cm,2.1cm,1.6cm,20,21,16,0,Steatite,,Fair,complete,Trough,Rhin,,1,,SC,1,R/L,     ,5,Y,Linear,Unequal,+072-170-740-840-013+,Rhin,Rhin,Rhin,R,Trough,Y,,
+12,Allahdino,,,H7,SW Quad,,,0,AD74-126,,,,,,square,-20,,SEAL:S,,0.9cm,0.9cm,0.4cm,9,9,4,0,Steatite,,Poor,partly damaged,None,None,,1,,2L,2,R/L,       ,6,N,Linear,Unequal,+740-142-000/000-388-000+,,
+13,Allahdino,,,G6,SE Quad,,,0,AD74-67,,,,,,square,-0.20,,MISC,,3.2cm,3.3cm,0.7cm,32,33,7,0,Clay,,Fair,complete,SAN,Elep,Given here without impression it may be a TAB:I?? curious object; 176 is a poor match,1,,UC,1,R/L,      ,6,N,,,+740-440-503-002-861-000+,Elep,Elep,Elep,R,SAN,Y,,
+14,Allahdino,,,,,,,0,AD74-E5 ,,,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Poor,fragment,None,None,,1,,UC,1,,   ,3,N,,,]000-004-455+,,
+15,Allahdino,,,J6,E1/2,,,0,AD73-94,,,,,,,-125,,MISC,Red,4.4cm,4.5cm,2.3cm,44,45,23,0,Clay,,Poor,fragment,None,None,,1,,??,1,,  ,2,N,,,]000-415+,,
+16,Altyn Depe,,,,,,<  ,0,,,Possehl 2002:p.230; Figure 12.31,,,,square,,,SEAL:S,White,,,,0,0,0,0,,,Good,complete,None,None,,1,,UC,1,L/R,  ,2,Y,Linear,Equal,+390-415+,,
+17,Amri,,,,,,,0,AI-23(10b),,,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Good,complete,None,None,,1,,SS,1,L/R,  ,2,Y,,,+390-034+,,
+18,Bakkar Buthi,,,,,,<  ,0,,,Web page by Ute Franke-Vogt.,,,,,,,POT:T:g,,,,,0,0,0,0,Clay,,Poor,complete,None,None,,1,,PP,1,R/L,      ,6,Y,,,+405-844-032-840-002-861+,,
+19,Bala-kot,,,,,,,0,2 BLK-165,,,,,,square,,,SEAL:S,,,,,0,0,0,0,,,Poor,complete,,Bull1,,1,,LC,1,R/L,       ,7,Y,Linear,Unequal,+226-003-002-297-350-125-413+,Bull1,Bull1,Bull1:?:n,R,,N,,
